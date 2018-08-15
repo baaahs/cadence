@@ -28,4 +28,4 @@ while True:
     if l:
 
         print audioop.rms(data, 2)
-        time.sleep(.1)
+        time.sleep(.5)
